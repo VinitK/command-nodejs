@@ -1,0 +1,1 @@
+[{"item":"Tomato","qty":3000,"price":120},{"item":"Potato","qty":2000,"price":80}]
